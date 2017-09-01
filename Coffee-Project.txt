@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<head>
+<style>
+*
+{box-sizing: border-box;
+background-color: gray;
+color: white}
+.heading
+{
+margin: 2px;}
+h1
+{color:brown;
+border-width: 4px;
+border: 4px solid maroon;
+background-color: black;
+border-radius: 10px;
+margin: 5px;
+text-align: center
+;
+padding: 5px}
+h2
+{color: red;
+margin: 5px;
+padding: 5px;
+}
+footer
+{background-color: black;
+height: 35px;
+padding: 4px}
+img
+{ width: 300px;
+height: 300px;}
+th
+{border: 3px solid black;
+border: center;}
+table
+{border: center;}
+.orignal
+{ width: 250px;
+height: 220px;}
+.sthead
+{color: brown;}
+</style>
+<title>
+Coffee Project
+</title>
+</head>
+<h1 class= "heading">
+BREW LIKE CHARLES
+</h1>
+<h3 class= "heading">
+High Quality Brewing experience
+</h3>
+<h4 class= "heading">
+Brewing since 1900
+</h4>
+
+<body>
+<marquee><blink>
+<h2> Breaking News: Beer Barrel are on sale this Christmas!</h2>
+</blink>
+</marquee>
+<img src="CCC/beer_2.jpg">
+<p class= "concise">
+Experience the new taste of modern brewing process in the country.
+With modern facilities use to develop a good taste brewery but without affecting the olf fashioned
+brewing taste. </p>
+<a href="#" </br>> Learn More</a>
+<h3 class="sthead">
+Our products offers a variety of different flavors that caters a wide group of beer drinkers:
+</h3>
+<ul>
+<li>The Original Malt
+</li>
+<img class="orignal" src="CCC/beer_barrel.jpg">
+<li> The Red Malt  </li>
+<img class="orignal" src="CCC/beer_barrel.jpg">
+<li> Strawberry Cocktail Malt  </li>
+<img class="orignal" src="CCC/beer_barrel.jpg">
+<li> Sweet Rice Wine Malt  </li>
+<img class="orignal" src="CCC/beer_barrel.jpg">
+</ul>
+<table>
+<tr>
+<th> Dipolog Plant</th>
+<th> Laguna Plant</th>
+<th> Tuguegarao Plant</th>
+<th> Cebu Plant</th>
+</tr>
+</table>
+<img src="CCC/beer_5.jpg">
+<footer>
+Visit our plant. Copywrite 2017.
+</footer>
+
+
+</body>
+
+</html>
